@@ -5,7 +5,7 @@ Creates incoming/outgoing transactions for products between different stores cre
 
 ## Installation
 
-* Download ZIP file from https://git.txstate.edu/CS-3354/ART.git 
+* Download ZIP file 
 * Open your preferred IDE environment such as Visual Studio Code
 *  Access the Project1 folder
 * Access the Model folder, which will contain .java classes
