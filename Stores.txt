@@ -1,0 +1,3 @@
+1|Apple|123 Parmer
+2|Tester|Trytest Road
+3|Nokia|Paris 123

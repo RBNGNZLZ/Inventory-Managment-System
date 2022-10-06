@@ -1,0 +1,4 @@
+1|2022-04-14|Incoming Transaction
+2|2022-04-14|Outgoing Transaction
+3|2022-04-17|Outgoing Transaction
+4|2022-04-17|Incoming Transaction
